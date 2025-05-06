@@ -41,5 +41,5 @@ This project focuses on classifying red wine samples as *Good* or *Bad* based on
 | F1 Score   | 0.8387        | 0.7592 | 0.7621 |
 | TSS        | 0.6546        | 0.4591 | 0.5010 |
 
-## 📎 GitHub
-https://github.com/DathwikK/kollikonda_dathwik_finalproject
+## Author
+Dathwik Kollikonda
